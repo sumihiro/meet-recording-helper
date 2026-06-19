@@ -34,4 +34,4 @@ If this policy changes, the updated version will be posted at this URL with a ne
 "Last updated" date.
 
 ## Contact
-Questions about this policy: <連絡先メールアドレスをここに記載>
+Questions about this policy: info+cw@orelabo.jp
